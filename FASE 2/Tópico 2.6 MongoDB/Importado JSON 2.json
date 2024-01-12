@@ -1,0 +1,946 @@
+{
+  "SalesByModelProductYear": [
+    {
+      "ModelKey": 88,
+      "ProductKey": 358,
+      "Year": 2012,
+      "TotalQuantity": 81
+    },
+    {
+      "ModelKey": 87,
+      "ProductKey": 345,
+      "Year": 2011,
+      "TotalQuantity": 25
+    },
+    {
+      "ModelKey": 115,
+      "ProductKey": 568,
+      "Year": 2013,
+      "TotalQuantity": 23
+    },
+    {
+      "ModelKey": 103,
+      "ProductKey": 331,
+      "Year": 2011,
+      "TotalQuantity": 1
+    },
+    {
+      "ModelKey": 100,
+      "ProductKey": 582,
+      "Year": 2013,
+      "TotalQuantity": 83
+    },
+    {
+      "ModelKey": 102,
+      "ProductKey": 389,
+      "Year": 2012,
+      "TotalQuantity": 26
+    },
+    {
+      "ModelKey": 88,
+      "ProductKey": 359,
+      "Year": 2013,
+      "TotalQuantity": 123
+    },
+    {
+      "ModelKey": 99,
+      "ProductKey": 372,
+      "Year": 2012,
+      "TotalQuantity": 2
+    },
+    {
+      "ModelKey": 88,
+      "ProductKey": 362,
+      "Year": 2011,
+      "TotalQuantity": 1
+    },
+    {
+      "ModelKey": 91,
+      "ProductKey": 596,
+      "Year": 2013,
+      "TotalQuantity": 13
+    },
+    {
+      "ModelKey": 88,
+      "ProductKey": 363,
+      "Year": 2012,
+      "TotalQuantity": 2
+    },
+    {
+      "ModelKey": 115,
+      "ProductKey": 570,
+      "Year": 2013,
+      "TotalQuantity": 18
+    },
+    {
+      "ModelKey": 87,
+      "ProductKey": 350,
+      "Year": 2011,
+      "TotalQuantity": 33
+    },
+    {
+      "ModelKey": 103,
+      "ProductKey": 336,
+      "Year": 2011,
+      "TotalQuantity": 9
+    },
+    {
+      "ModelKey": 90,
+      "ProductKey": 587,
+      "Year": 2013,
+      "TotalQuantity": 34
+    },
+    {
+      "ModelKey": 103,
+      "ProductKey": 324,
+      "Year": 2011,
+      "TotalQuantity": 6
+    },
+    {
+      "ModelKey": 90,
+      "ProductKey": 588,
+      "Year": 2012,
+      "TotalQuantity": 1
+    },
+    {
+      "ModelKey": 113,
+      "ProductKey": 574,
+      "Year": 2012,
+      "TotalQuantity": 1
+    },
+    {
+      "ModelKey": 99,
+      "ProductKey": 377,
+      "Year": 2012,
+      "TotalQuantity": 85
+    },
+    {
+      "ModelKey": 113,
+      "ProductKey": 575,
+      "Year": 2013,
+      "TotalQuantity": 58
+    },
+    {
+      "ModelKey": 103,
+      "ProductKey": 338,
+      "Year": 2011,
+      "TotalQuantity": 4
+    },
+    {
+      "ModelKey": 113,
+      "ProductKey": 562,
+      "Year": 2012,
+      "TotalQuantity": 1
+    },
+    {
+      "ModelKey": 88,
+      "ProductKey": 361,
+      "Year": 2013,
+      "TotalQuantity": 131
+    },
+    {
+      "ModelKey": 102,
+      "ProductKey": 381,
+      "Year": 2011,
+      "TotalQuantity": 1
+    },
+    {
+      "ModelKey": 99,
+      "ProductKey": 378,
+      "Year": 2013,
+      "TotalQuantity": 94
+    },
+    {
+      "ModelKey": 103,
+      "ProductKey": 339,
+      "Year": 2012,
+      "TotalQuantity": 16
+    },
+    {
+      "ModelKey": 90,
+      "ProductKey": 589,
+      "Year": 2013,
+      "TotalQuantity": 44
+    },
+    {
+      "ModelKey": 103,
+      "ProductKey": 325,
+      "Year": 2012,
+      "TotalQuantity": 22
+    },
+    {
+      "ModelKey": 98,
+      "ProductKey": 312,
+      "Year": 2011,
+      "TotalQuantity": 127
+    },
+    {
+      "ModelKey": 104,
+      "ProductKey": 606,
+      "Year": 2013,
+      "TotalQuantity": 149
+    },
+    {
+      "ModelKey": 88,
+      "ProductKey": 353,
+      "Year": 2012,
+      "TotalQuantity": 3
+    },
+    {
+      "ModelKey": 99,
+      "ProductKey": 370,
+      "Year": 2012,
+      "TotalQuantity": 62
+    },
+    {
+      "ModelKey": 113,
+      "ProductKey": 563,
+      "Year": 2013,
+      "TotalQuantity": 40
+    },
+    {
+      "ModelKey": 103,
+      "ProductKey": 326,
+      "Year": 2011,
+      "TotalQuantity": 15
+    },
+    {
+      "ModelKey": 99,
+      "ProductKey": 380,
+      "Year": 2013,
+      "TotalQuantity": 80
+    },
+    {
+      "ModelKey": 114,
+      "ProductKey": 577,
+      "Year": 2013,
+      "TotalQuantity": 28
+    },
+    {
+      "ModelKey": 102,
+      "ProductKey": 384,
+      "Year": 2012,
+      "TotalQuantity": 1
+    },
+    {
+      "ModelKey": 91,
+      "ProductKey": 594,
+      "Year": 2013,
+      "TotalQuantity": 13
+    },
+    {
+      "ModelKey": 103,
+      "ProductKey": 327,
+      "Year": 2012,
+      "TotalQuantity": 22
+    },
+    {
+      "ModelKey": 115,
+      "ProductKey": 565,
+      "Year": 2013,
+      "TotalQuantity": 24
+    },
+    {
+      "ModelKey": 103,
+      "ProductKey": 328,
+      "Year": 2011,
+      "TotalQuantity": 8
+    },
+    {
+      "ModelKey": 104,
+      "ProductKey": 605,
+      "Year": 2013,
+      "TotalQuantity": 136
+    },
+    {
+      "ModelKey": 102,
+      "ProductKey": 385,
+      "Year": 2011,
+      "TotalQuantity": 1
+    },
+    {
+      "ModelKey": 88,
+      "ProductKey": 355,
+      "Year": 2012,
+      "TotalQuantity": 1
+    },
+    {
+      "ModelKey": 102,
+      "ProductKey": 381,
+      "Year": 2012,
+      "TotalQuantity": 27
+    },
+    {
+      "ModelKey": 99,
+      "ProductKey": 371,
+      "Year": 2011,
+      "TotalQuantity": 3
+    },
+    {
+      "ModelKey": 103,
+      "ProductKey": 341,
+      "Year": 2012,
+      "TotalQuantity": 14
+    },
+    {
+      "ModelKey": 99,
+      "ProductKey": 369,
+      "Year": 2012,
+      "TotalQuantity": 83
+    },
+    {
+      "ModelKey": 102,
+      "ProductKey": 382,
+      "Year": 2013,
+      "TotalQuantity": 89
+    },
+    {
+      "ModelKey": 103,
+      "ProductKey": 329,
+      "Year": 2012,
+      "TotalQuantity": 28
+    },
+    {
+      "ModelKey": 114,
+      "ProductKey": 579,
+      "Year": 2013,
+      "TotalQuantity": 37
+    },
+    {
+      "ModelKey": 100,
+      "ProductKey": 583,
+      "Year": 2012,
+      "TotalQuantity": 1
+    },
+    {
+      "ModelKey": 91,
+      "ProductKey": 593,
+      "Year": 2013,
+      "TotalQuantity": 7
+    },
+    {
+      "ModelKey": 103,
+      "ProductKey": 342,
+      "Year": 2011,
+      "TotalQuantity": 11
+    },
+    {
+      "ModelKey": 103,
+      "ProductKey": 343,
+      "Year": 2012,
+      "TotalQuantity": 24
+    },
+    {
+      "ModelKey": 88,
+      "ProductKey": 360,
+      "Year": 2012,
+      "TotalQuantity": 83
+    },
+    {
+      "ModelKey": 115,
+      "ProductKey": 567,
+      "Year": 2013,
+      "TotalQuantity": 29
+    },
+    {
+      "ModelKey": 87,
+      "ProductKey": 346,
+      "Year": 2010,
+      "TotalQuantity": 3
+    },
+    {
+      "ModelKey": 115,
+      "ProductKey": 571,
+      "Year": 2012,
+      "TotalQuantity": 1
+    },
+    {
+      "ModelKey": 99,
+      "ProductKey": 374,
+      "Year": 2012,
+      "TotalQuantity": 2
+    },
+    {
+      "ModelKey": 104,
+      "ProductKey": 584,
+      "Year": 2013,
+      "TotalQuantity": 139
+    },
+    {
+      "ModelKey": 91,
+      "ProductKey": 598,
+      "Year": 2013,
+      "TotalQuantity": 16
+    },
+    {
+      "ModelKey": 87,
+      "ProductKey": 347,
+      "Year": 2011,
+      "TotalQuantity": 24
+    },
+    {
+      "ModelKey": 103,
+      "ProductKey": 331,
+      "Year": 2012,
+      "TotalQuantity": 13
+    },
+    {
+      "ModelKey": 115,
+      "ProductKey": 572,
+      "Year": 2013,
+      "TotalQuantity": 22
+    },
+    {
+      "ModelKey": 87,
+      "ProductKey": 351,
+      "Year": 2010,
+      "TotalQuantity": 1
+    },
+    {
+      "ModelKey": 113,
+      "ProductKey": 576,
+      "Year": 2012,
+      "TotalQuantity": 1
+    },
+    {
+      "ModelKey": 99,
+      "ProductKey": 379,
+      "Year": 2012,
+      "TotalQuantity": 70
+    },
+    {
+      "ModelKey": 88,
+      "ProductKey": 362,
+      "Year": 2012,
+      "TotalQuantity": 94
+    },
+    {
+      "ModelKey": 115,
+      "ProductKey": 586,
+      "Year": 2013,
+      "TotalQuantity": 20
+    },
+    {
+      "ModelKey": 114,
+      "ProductKey": 560,
+      "Year": 2013,
+      "TotalQuantity": 27
+    },
+    {
+      "ModelKey": 98,
+      "ProductKey": 313,
+      "Year": 2010,
+      "TotalQuantity": 1
+    },
+    {
+      "ModelKey": 103,
+      "ProductKey": 340,
+      "Year": 2011,
+      "TotalQuantity": 7
+    },
+    {
+      "ModelKey": 88,
+      "ProductKey": 363,
+      "Year": 2013,
+      "TotalQuantity": 130
+    },
+    {
+      "ModelKey": 88,
+      "ProductKey": 354,
+      "Year": 2011,
+      "TotalQuantity": 1
+    },
+    {
+      "ModelKey": 113,
+      "ProductKey": 574,
+      "Year": 2013,
+      "TotalQuantity": 50
+    },
+    {
+      "ModelKey": 87,
+      "ProductKey": 344,
+      "Year": 2010,
+      "TotalQuantity": 1
+    },
+    {
+      "ModelKey": 98,
+      "ProductKey": 314,
+      "Year": 2011,
+      "TotalQuantity": 129
+    },
+    {
+      "ModelKey": 114,
+      "ProductKey": 578,
+      "Year": 2012,
+      "TotalQuantity": 1
+    },
+    {
+      "ModelKey": 104,
+      "ProductKey": 604,
+      "Year": 2012,
+      "TotalQuantity": 2
+    },
+    {
+      "ModelKey": 91,
+      "ProductKey": 591,
+      "Year": 2013,
+      "TotalQuantity": 8
+    },
+    {
+      "ModelKey": 98,
+      "ProductKey": 311,
+      "Year": 2011,
+      "TotalQuantity": 117
+    },
+    {
+      "ModelKey": 87,
+      "ProductKey": 351,
+      "Year": 2011,
+      "TotalQuantity": 34
+    },
+    {
+      "ModelKey": 103,
+      "ProductKey": 321,
+      "Year": 2012,
+      "TotalQuantity": 21
+    },
+    {
+      "ModelKey": 113,
+      "ProductKey": 562,
+      "Year": 2013,
+      "TotalQuantity": 56
+    },
+    {
+      "ModelKey": 99,
+      "ProductKey": 378,
+      "Year": 2012,
+      "TotalQuantity": 1
+    },
+    {
+      "ModelKey": 88,
+      "ProductKey": 352,
+      "Year": 2012,
+      "TotalQuantity": 88
+    },
+    {
+      "ModelKey": 104,
+      "ProductKey": 606,
+      "Year": 2012,
+      "TotalQuantity": 1
+    },
+    {
+      "ModelKey": 113,
+      "ProductKey": 576,
+      "Year": 2013,
+      "TotalQuantity": 53
+    },
+    {
+      "ModelKey": 98,
+      "ProductKey": 313,
+      "Year": 2011,
+      "TotalQuantity": 114
+    },
+    {
+      "ModelKey": 90,
+      "ProductKey": 590,
+      "Year": 2013,
+      "TotalQuantity": 51
+    },
+    {
+      "ModelKey": 103,
+      "ProductKey": 330,
+      "Year": 2011,
+      "TotalQuantity": 6
+    },
+    {
+      "ModelKey": 99,
+      "ProductKey": 370,
+      "Year": 2011,
+      "TotalQuantity": 1
+    },
+    {
+      "ModelKey": 102,
+      "ProductKey": 383,
+      "Year": 2012,
+      "TotalQuantity": 23
+    },
+    {
+      "ModelKey": 88,
+      "ProductKey": 353,
+      "Year": 2013,
+      "TotalQuantity": 144
+    },
+    {
+      "ModelKey": 87,
+      "ProductKey": 344,
+      "Year": 2011,
+      "TotalQuantity": 25
+    },
+    {
+      "ModelKey": 113,
+      "ProductKey": 564,
+      "Year": 2013,
+      "TotalQuantity": 67
+    },
+    {
+      "ModelKey": 88,
+      "ProductKey": 357,
+      "Year": 2012,
+      "TotalQuantity": 3
+    },
+    {
+      "ModelKey": 102,
+      "ProductKey": 384,
+      "Year": 2013,
+      "TotalQuantity": 88
+    },
+    {
+      "ModelKey": 100,
+      "ProductKey": 581,
+      "Year": 2013,
+      "TotalQuantity": 88
+    },
+    {
+      "ModelKey": 91,
+      "ProductKey": 595,
+      "Year": 2013,
+      "TotalQuantity": 11
+    },
+    {
+      "ModelKey": 102,
+      "ProductKey": 385,
+      "Year": 2012,
+      "TotalQuantity": 23
+    },
+    {
+      "ModelKey": 99,
+      "ProductKey": 371,
+      "Year": 2012,
+      "TotalQuantity": 85
+    },
+    {
+      "ModelKey": 88,
+      "ProductKey": 355,
+      "Year": 2013,
+      "TotalQuantity": 121
+    },
+    {
+      "ModelKey": 87,
+      "ProductKey": 349,
+      "Year": 2011,
+      "TotalQuantity": 27
+    },
+    {
+      "ModelKey": 88,
+      "ProductKey": 359,
+      "Year": 2012,
+      "TotalQuantity": 2
+    },
+    {
+      "ModelKey": 99,
+      "ProductKey": 372,
+      "Year": 2013,
+      "TotalQuantity": 83
+    },
+    {
+      "ModelKey": 115,
+      "ProductKey": 569,
+      "Year": 2013,
+      "TotalQuantity": 26
+    },
+    {
+      "ModelKey": 100,
+      "ProductKey": 583,
+      "Year": 2013,
+      "TotalQuantity": 94
+    },
+    {
+      "ModelKey": 103,
+      "ProductKey": 332,
+      "Year": 2011,
+      "TotalQuantity": 5
+    },
+    {
+      "ModelKey": 103,
+      "ProductKey": 333,
+      "Year": 2012,
+      "TotalQuantity": 16
+    },
+    {
+      "ModelKey": 91,
+      "ProductKey": 600,
+      "Year": 2013,
+      "TotalQuantity": 15
+    },
+    {
+      "ModelKey": 102,
+      "ProductKey": 390,
+      "Year": 2012,
+      "TotalQuantity": 1
+    },
+    {
+      "ModelKey": 102,
+      "ProductKey": 386,
+      "Year": 2013,
+      "TotalQuantity": 89
+    },
+    {
+      "ModelKey": 99,
+      "ProductKey": 376,
+      "Year": 2012,
+      "TotalQuantity": 1
+    },
+    {
+      "ModelKey": 90,
+      "ProductKey": 588,
+      "Year": 2013,
+      "TotalQuantity": 35
+    },
+    {
+      "ModelKey": 99,
+      "ProductKey": 374,
+      "Year": 2013,
+      "TotalQuantity": 74
+    },
+    {
+      "ModelKey": 115,
+      "ProductKey": 571,
+      "Year": 2013,
+      "TotalQuantity": 17
+    },
+    {
+      "ModelKey": 102,
+      "ProductKey": 388,
+      "Year": 2013,
+      "TotalQuantity": 84
+    },
+    {
+      "ModelKey": 115,
+      "ProductKey": 585,
+      "Year": 2013,
+      "TotalQuantity": 20
+    },
+    {
+      "ModelKey": 99,
+      "ProductKey": 375,
+      "Year": 2012,
+      "TotalQuantity": 55
+    },
+    {
+      "ModelKey": 103,
+      "ProductKey": 335,
+      "Year": 2012,
+      "TotalQuantity": 19
+    },
+    {
+      "ModelKey": 88,
+      "ProductKey": 361,
+      "Year": 2012,
+      "TotalQuantity": 2
+    },
+    {
+      "ModelKey": 87,
+      "ProductKey": 348,
+      "Year": 2011,
+      "TotalQuantity": 27
+    },
+    {
+      "ModelKey": 99,
+      "ProductKey": 379,
+      "Year": 2011,
+      "TotalQuantity": 1
+    },
+    {
+      "ModelKey": 91,
+      "ProductKey": 599,
+      "Year": 2013,
+      "TotalQuantity": 25
+    },
+    {
+      "ModelKey": 113,
+      "ProductKey": 573,
+      "Year": 2013,
+      "TotalQuantity": 69
+    },
+    {
+      "ModelKey": 103,
+      "ProductKey": 322,
+      "Year": 2011,
+      "TotalQuantity": 6
+    },
+    {
+      "ModelKey": 103,
+      "ProductKey": 323,
+      "Year": 2012,
+      "TotalQuantity": 11
+    },
+    {
+      "ModelKey": 114,
+      "ProductKey": 577,
+      "Year": 2012,
+      "TotalQuantity": 2
+    },
+    {
+      "ModelKey": 98,
+      "ProductKey": 310,
+      "Year": 2011,
+      "TotalQuantity": 136
+    },
+    {
+      "ModelKey": 99,
+      "ProductKey": 380,
+      "Year": 2012,
+      "TotalQuantity": 1
+    },
+    {
+      "ModelKey": 99,
+      "ProductKey": 376,
+      "Year": 2013,
+      "TotalQuantity": 97
+    },
+    {
+      "ModelKey": 102,
+      "ProductKey": 390,
+      "Year": 2013,
+      "TotalQuantity": 78
+    },
+    {
+      "ModelKey": 88,
+      "ProductKey": 354,
+      "Year": 2012,
+      "TotalQuantity": 87
+    },
+    {
+      "ModelKey": 98,
+      "ProductKey": 314,
+      "Year": 2010,
+      "TotalQuantity": 1
+    },
+    {
+      "ModelKey": 104,
+      "ProductKey": 604,
+      "Year": 2013,
+      "TotalQuantity": 128
+    },
+    {
+      "ModelKey": 114,
+      "ProductKey": 578,
+      "Year": 2013,
+      "TotalQuantity": 28
+    },
+    {
+      "ModelKey": 103,
+      "ProductKey": 337,
+      "Year": 2012,
+      "TotalQuantity": 12
+    },
+    {
+      "ModelKey": 113,
+      "ProductKey": 561,
+      "Year": 2013,
+      "TotalQuantity": 67
+    },
+    {
+      "ModelKey": 88,
+      "ProductKey": 358,
+      "Year": 2011,
+      "TotalQuantity": 1
+    },
+    {
+      "ModelKey": 91,
+      "ProductKey": 592,
+      "Year": 2013,
+      "TotalQuantity": 13
+    },
+    {
+      "ModelKey": 99,
+      "ProductKey": 368,
+      "Year": 2012,
+      "TotalQuantity": 71
+    },
+    {
+      "ModelKey": 103,
+      "ProductKey": 329,
+      "Year": 2011,
+      "TotalQuantity": 1
+    },
+    {
+      "ModelKey": 91,
+      "ProductKey": 596,
+      "Year": 2012,
+      "TotalQuantity": 1
+    },
+    {
+      "ModelKey": 115,
+      "ProductKey": 566,
+      "Year": 2013,
+      "TotalQuantity": 22
+    },
+    {
+      "ModelKey": 100,
+      "ProductKey": 580,
+      "Year": 2013,
+      "TotalQuantity": 93
+    },
+    {
+      "ModelKey": 103,
+      "ProductKey": 320,
+      "Year": 2011,
+      "TotalQuantity": 12
+    },
+    {
+      "ModelKey": 88,
+      "ProductKey": 356,
+      "Year": 2012,
+      "TotalQuantity": 85
+    },
+    {
+      "ModelKey": 87,
+      "ProductKey": 346,
+      "Year": 2011,
+      "TotalQuantity": 30
+    },
+    {
+      "ModelKey": 91,
+      "ProductKey": 597,
+      "Year": 2013,
+      "TotalQuantity": 12
+    },
+    {
+      "ModelKey": 99,
+      "ProductKey": 373,
+      "Year": 2012,
+      "TotalQuantity": 63
+    },
+    {
+      "ModelKey": 103,
+      "ProductKey": 334,
+      "Year": 2011,
+      "TotalQuantity": 11
+    },
+    {
+      "ModelKey": 88,
+      "ProductKey": 357,
+      "Year": 2013,
+      "TotalQuantity": 123
+    },
+    {
+      "ModelKey": 99,
+      "ProductKey": 377,
+      "Year": 2011,
+      "TotalQuantity": 1
+    },
+    {
+      "ModelKey": 104,
+      "ProductKey": 584,
+      "Year": 2012,
+      "TotalQuantity": 1
+    },
+    {
+      "ModelKey": 102,
+      "ProductKey": 387,
+      "Year": 2012,
+      "TotalQuantity": 24
+    }
+  ]
+}

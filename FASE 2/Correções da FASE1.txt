@@ -1,0 +1,4 @@
+Adicionada 3 novas tabelas para separar o Sales2
+Corrigir o MER e MR
+Corrigir Layout (Dimensionar o nº e tipos de acessos)
+corrigir tópico 3 dos Metadados
