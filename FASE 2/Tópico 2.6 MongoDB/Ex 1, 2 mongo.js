@@ -1,9 +1,15 @@
-/* 2 Implementacao das collections necessárias de modo a suportar a informação disponibilizada no site */
-db.createCollection("SalesByModelProductYear")
-db.createCollection("MonthlyAnnualSalesBalance")
+/* 202100728_202100744 */
 
-// SalesByModelProductYear
-db.SalesByModelProductYear.insertMany([
+// 1 criação base de dados
+use AdventurWorksWeb
+
+
+// Criando a coleção principal
+db.createCollection("SalesInformation");
+
+// Inserindo os documentos nas subcoleções
+db.SalesInformation.insertMany({
+  SalesByModelProductYear: [
     {
       model: "Modelo1",
       product: "ProdutoA",
@@ -15,11 +21,9 @@ db.SalesByModelProductYear.insertMany([
       product: "ProdutoB",
       year: 2023,
       sales: 7500
-    },
-]);
-
-// MonthlyAnnualSalesBalance
-db.MonthlyAnnualSalesBalance.insertMany([
+    }
+  ],
+  MonthlyAnnualSalesBalance: [
     {
       year: 2023,
       monthlySales: [
@@ -28,6 +32,7 @@ db.MonthlyAnnualSalesBalance.insertMany([
         { month: 12, sales: 15000 }
       ],
       annualBalance: 180000
-    },
-  ]);
-  
+    }
+  ]
+});
+
