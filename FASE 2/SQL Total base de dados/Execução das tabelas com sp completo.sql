@@ -1,4 +1,9 @@
 ﻿--Identificação: 202100744_202100728
+
+-- criação base de dados
+Create database AdventureWorks;
+GO
+use AdventureWorks;
 -- Cria��o tabela ErrorLog
 CREATE TABLE ErrorLog (
     ErrorLogID INT IDENTITY(1,1) PRIMARY KEY,

@@ -2,7 +2,9 @@
 --3 
 -- criar base de dados no SQL Server
 create database AdventurWorksWeb;
-
+GO
+use AdventurWorksWeb;
+GO
 -- Criar uma tabela para armazenar os resultados
 CREATE TABLE SalesByModelProductYear (
     ModelKey INT,

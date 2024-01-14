@@ -31,3 +31,9 @@ BEGIN
     LEFT JOIN sys.default_constraints dc ON c.default_object_id = dc.object_id
     INNER JOIN sys.types ty ON c.user_type_id = ty.user_type_id;
 END;
+GO
+--Executar Procedimento GerarEntradasTabelaMetadados
+EXEC dbo.GerarEntradasTabelaMetadados;
+GO
+-- Consultar a Tabela MetadadosTabelas
+SELECT * FROM dbo.MetadadosTabelas;

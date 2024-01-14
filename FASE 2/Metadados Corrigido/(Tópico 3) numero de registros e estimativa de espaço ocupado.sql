@@ -46,4 +46,9 @@ BEGIN
     -- Apagar tabela temporária
     DROP TABLE #TempResults;
 END;
-
+GO
+--Executar Procedimento RegistrarEstatisticasTabelas
+EXEC dbo.RegistrarEstatisticasTabelas;
+GO
+-- Consultar a Tabela EstatisticasTabelas
+SELECT * FROM dbo.EstatisticasTabelas;

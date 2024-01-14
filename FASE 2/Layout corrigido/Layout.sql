@@ -89,7 +89,7 @@ ALTER DATABASE AdventureWorks
 ADD FILE
 (
     NAME = 'DadosFile1',
-    FILENAME = 'C:\Program Files\Microsoft SQL Server\MSSQL16.SQLEXPRESS\MSSQL\DATA\DadosFile1.ndf', -- Caminho para o ficheiro de dados
+    FILENAME = 'C:\Program Files\Microsoft SQL Server\MSSQL16.SQLEXPRESS\MSSQL\DATA\DadosFile1.ndf',
     SIZE = 100MB, -- Dimensão inicial
     MAXSIZE = UNLIMITED, -- Dimensão máxima
     FILEGROWTH = 50MB -- Taxa de crescimento

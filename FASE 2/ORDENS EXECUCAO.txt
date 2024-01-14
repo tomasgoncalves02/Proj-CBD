@@ -1,0 +1,9 @@
+1 - script total base de dados
+2 - metadados
+3 - layout
+4 - Indices
+5 - backups
+6 - niveis de acesso
+7 - encriptação
+8 - controlo de transações
+9 - mongoDB

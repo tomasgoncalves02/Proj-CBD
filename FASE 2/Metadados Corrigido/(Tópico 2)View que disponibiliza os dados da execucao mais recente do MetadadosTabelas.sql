@@ -11,3 +11,6 @@ SELECT
     DataAlteracao
 FROM dbo.MetadadosTabelas
 WHERE DataAlteracao = (SELECT MAX(DataAlteracao) FROM dbo.MetadadosTabelas);
+GO
+-- Consultar a VIEW MetadadosTabelas_View
+SELECT * FROM dbo.MetadadosTabelas_View;
